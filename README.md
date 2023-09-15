@@ -26,3 +26,5 @@ For those seeking a more extensive list of quotes, click the 'Show me list of qu
 
 ## JSON API
 The quotes are sourced from a JSON API accessible at [this link](https://quote-api.dicoding.dev/list). If you prefer a more human-readable format for the JSON data, consider adding a browser extension like "JSON Formatter."
+
+source: https://www.dicoding.com/academies/14/tutorials/6514
